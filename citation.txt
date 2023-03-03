@@ -1,0 +1,6 @@
+@inproceedings{
+zhao2022comparing,
+title={Comparing Distributions by Measuring Differences that Affect Decision  Making},
+author={Shengjia Zhao and Abhishek Sinha and Yutong He and Aidan Perreault  and Jiaming Song and Stefano Ermon},
+booktitle={International Conference on Learning Representations},
+year={2022}}
