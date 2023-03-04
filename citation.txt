@@ -1,6 +1,6 @@
-@inproceedings{
-zhao2022comparing,
-title={Comparing Distributions by Measuring Differences that Affect Decision  Making},
-author={Shengjia Zhao and Abhishek Sinha and Yutong He and Aidan Perreault  and Jiaming Song and Stefano Ermon},
-booktitle={International Conference on Learning Representations},
-year={2022}}
+@inproceedings{REPO-261,
+    author = "Zhao, Shengjia and Sinha, Abhishek and He, Yutong and Perreault, Aidan and Song, Jiaming and Ermon, Stefano",
+    booktitle = "International Conference on Learning Representations",
+    title = "{Comparing Distributions by Measuring Differences that Affect Decision Making}",
+    year = "2022"
+}
